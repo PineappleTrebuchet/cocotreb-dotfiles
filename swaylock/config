@@ -1,0 +1,31 @@
+clock
+timestr=%I:%M %p
+datestr=%a, %b %d
+
+ignore-empty-password
+font=SpaceMono
+screenshots
+effect-blur=20x6
+
+indicator
+indicator-radius=250
+indicator-thickness=20
+
+inside-color=#000000DA
+inside-clear-color=#000000DA
+inside-ver-color=#000000DA
+inside-wrong-color=#000000DA
+
+text-color=#98971a
+text-clear-color=#98971a
+text-ver-color=#98971a
+text-wrong-color=#98971a
+text-caps-lock-color=#98971a
+
+ring-color=#98971a
+ring-clear-color=#98971a
+ring-ver-color=#98971a
+ring-wrong-color=#98971a
+
+bs-hl-color=#cc241d
+key-hl-color=#98971a
