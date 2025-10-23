@@ -18,7 +18,7 @@ These are the dotfiles for my daily driver! I use EndeavourOS alongside SwayWM, 
 - Discord and Vencord
 
 ## Gallery:
-!(.assets/102225_231410.png)
-!(.assets/102225_231750.png)
+![A Sway desktop screenshot, featuring fastfetch and cmatrix.](.assets/102225_231410.png)
+![Another Sway desktop screenshot, this time featuring SwayNC, Fuzzel, and AstroNvim.](.assets/102225_231750.png)
 
 Feel free to use these for inspiration or as a template for your own dotfiles.
