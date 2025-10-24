@@ -9,4 +9,5 @@ return {
   { import = "astrocommunity.lsp.nvim-java" }, -- opt-in to nvim-java for LSP
   -- import/override with your plugins folder
   { import = "astrocommunity.markdown-and-latex.render-markdown-nvim" },
+  { import = "astrocommunity.pack.python"},
 }
